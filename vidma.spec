@@ -4,8 +4,7 @@ Version:	0.0.3
 Release:	0.1
 License:	GPL v2
 Group:		Applications
-#http://download.przemoc.net/vidma
-Source0:	%{name}-%{version}.tar.gz
+Source0:	http://download.przemoc.net/%{name}-%{version}.tar.gz
 # Source0-md5:	c74713d778fb0af6520bdee0cce04a8e
 URL:		https://github.com/przemoc/vidma
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
