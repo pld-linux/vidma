@@ -1,11 +1,11 @@
 Summary:	Virtual Disks Manipulator
 Name:		vidma
-Version:	0.0.3b
+Version:	0.0.4
 Release:	1
 License:	GPL v2
 Group:		Applications
 Source0:	http://download.przemoc.net/%{name}-%{version}.tar.gz
-# Source0-md5:	4ad4980fb9bebea4c71a3ccce5433442
+# Source0-md5:	c7996cc1baea952023ec25ef52af1f64
 URL:		https://github.com/przemoc/vidma
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
